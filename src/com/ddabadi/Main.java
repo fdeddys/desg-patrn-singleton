@@ -1,5 +1,7 @@
 package com.ddabadi;
 
+import java.util.ArrayList;
+
 public class Main {
 
     public static void main(String[] args) {
@@ -9,6 +11,7 @@ public class Main {
 
         simple.VoidHello();
         simple.VoidHi();
-
+        simple.iterate_array();
     }
 }
+
