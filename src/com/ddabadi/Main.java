@@ -8,6 +8,7 @@ public class Main {
         SimpleSingleton simple= SimpleSingleton.getInstance();
 
         simple.VoidHello();
+        simple.VoidHi();
 
     }
 }
